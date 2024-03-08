@@ -1,2 +1,2 @@
 # software-architecture
-for software architecture homework
+This respostitory is for software architecture homework
